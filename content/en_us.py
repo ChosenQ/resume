@@ -34,9 +34,9 @@ content = {
 
                     "content": '''
                         <p>
-                            Major: Physics        GPA 3.55 / 4.00 <br>
+                            Major: Physics        (GPA 3.55 / 4.00) <br>
                             Core crouses: Probability and Statistics, Linear Algebra, C Programming, <br> 
-                            &nbsp;Machine Learning and Python Practice, Mathematical Physics Methods <br>
+                            <&nbsp;&nbsp;&nbsp;>Machine Learning and Python Practice, Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             
                         </p>
@@ -130,11 +130,12 @@ content = {
                     "period": None,
 
                     "content": '''
+                        <p><i>(<a href="https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ">https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ</a>)</i></p>
                         <p>Researcher. We developed GaLNets with 
                         machine learning technique to enhance the 
                         performance of galaxy image processing in 
                         KiDs, CSST… </p>
-                        <p><i>(<a href="https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ">https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ</a>)</i></p>
+                        
                     ''',
                     "content_plain": None
                 },
