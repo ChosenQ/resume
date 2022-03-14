@@ -5,7 +5,7 @@
 from tkinter.messagebox import NO
 
 content = {
-    "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px; float:right"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
+    "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px;"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
     "title": "Chosen's Resume",
 
     "extra_style": "en_us.css",
@@ -57,7 +57,7 @@ content = {
                         <p>
                             Major: Physics        (GPA 3.55 / 4.00) <br>
                             Core crouses: Probability and Statistics, Linear Algebra, <br> 
-                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Programming and data structure,Machine Learning and Python Practice, Mathematical Physics Methods <br>
+                            <p style=text_indent:4cm> C Programming and data structure,Machine Learning and Python Practice, Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             
                         </p>
@@ -87,7 +87,7 @@ content = {
                             
                         </p>
                         <p>
-                            Our system is now the fast and most accurate model in galaxy images analysing  :)
+                            
                         </p>
                     ''',
                     "content_plain": None
@@ -105,7 +105,7 @@ content = {
                         <p>
                             Chairman.
                         </p>
-                        <p>
+                        <p style=text_indent:2cm>
                             In this exprience, I led our media center to finish many promotional activities via both traditional ways and novel media (e.g. WeChat Official account).
                             We got a lot of achievement in advertising our school and received widely acclaim. Most importantly, we build an efficient working process and orgnized personnel structure,
                             which are very benificial to our successors.
@@ -158,11 +158,12 @@ content = {
                         <p>
                         Researcher.
                         </p>
-                        <p>
+                        <p style=text_indent:2cm>
                         Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
                         using Convolutional Neural Network(CNN) to process the galaxy images and 
                         derive structural parameters on 1-Sersic model[GaLNets.I.] 
-                        and perform Bulge-Disk decomposition on 2-Sersic model[GaLNets.Ⅱ.]
+                        and perform Bulge-Disk decomposition on 2-Sersic model[GaLNets.Ⅱ.]<br>
+                        Our system is now the fast and most accurate model in galaxy images analysing  :)
                         </p>
                         
                     ''',
