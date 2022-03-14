@@ -12,7 +12,7 @@ content = {
         {
             "src": "assets/email-logo.svg",
             "alt": "Email",
-            "content": "chosenqiuch[at]gmail.com",
+            "content": "chosenqiuch@gmail.com",
             "url": "mailto:chosenqiuch@gmail.com"
         },
     ],
@@ -27,14 +27,16 @@ content = {
                     "logo_src": "assets/sysu-logo.svg",
                     "logo_alt": "Sun Yat-sen University Logo",
 
-                    "title": "Sun Yat-sen University, Guangdong, China",
+                    "title": "(Undergraduate)Sun Yat-sen University, Guangdong, China",
                     "title_plain": None,
 
                     "period": "08/2019 - Present",
 
                     "content": '''
                         <p>
-                            Major: Physic (Undergraduate), <br>
+                            Major: Physics <br>
+                            Core crouses: Probability and Statistics, Linear Algebra, C Programming, Machine Learning and Python Practice
+Mathematical Physics Methods 
                             Anticipated graduation date: 06/2023, <br>
                             GPA 3.55 / 4.00
                         </p>
@@ -61,7 +63,7 @@ content = {
                             Technical researcher.
                         </p>
                         <p>
-                            Work in research group developing Galaxy Light profile 
+                            We Work in research group developing Galaxy Light profile 
                             convolutional neural Networks (GaLNets) with CNN machine 
                             learning technique for further study.
                         </p>
