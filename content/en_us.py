@@ -2,6 +2,9 @@
 # <div style="height: 260px; width: 170px;"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>
 # 打印样式 div-style 加上 float:right;
 
+from tkinter.messagebox import NO
+
+
 content = {
     "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px; float:right"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
     "title": "Chosen's Resume",
@@ -20,6 +23,25 @@ content = {
 
     "sections": [
         {
+            "title": "Introduction",
+            "list": [
+                {   "title": None,
+                    "title_plain": None,
+                    "content": '''
+                        <p>
+                            I am an undergratuate in School of physics and Astronomy at SYSU. My interest and research goal is solving real-world problems with
+                            sundry technology. Among all technology I have acquired, I found Machine Leaning most charming and promising. 
+                            I learnt most of my Machine Learning knowledge from online courses(thanks to Youtube, Coursera and Bilibili) and research practices.
+                            With my knowledge in Physics, Mathematic, Computer Science and Machine Learning, I successfully developed a variety of models in galaxy images analysing.
+                            Currently, I am working on project that using CNN to do structural decomposition in 2-component galaxies and writing my first paper on this.
+                            In the future, I am looking forward to participating in more Machine Learning researches on image analyse, NLP or other area that will accutually make contribution to our world.  
+                        </p>
+                    ''',
+                    "content_plain": None
+                }
+            ]
+        },
+        {
             "title": "Education experience",
             "list": [
                 {
@@ -35,8 +57,8 @@ content = {
                     "content": '''
                         <p>
                             Major: Physics        (GPA 3.55 / 4.00) <br>
-                            Core crouses: Probability and Statistics, Linear Algebra, C Programming, <br> 
-                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning and Python Practice, Mathematical Physics Methods <br>
+                            Core crouses: Probability and Statistics, Linear Algebra, <br> 
+                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Programming and data structure,Machine Learning and Python Practice, Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             
                         </p>
@@ -46,7 +68,7 @@ content = {
             ]
         },
         {
-            "title": "Work Experience",
+            "title": "Professional Experience",
             "list": [
                 {
                     #"logo_src": "assets/csst-logo.svg",
@@ -63,9 +85,13 @@ content = {
                             Technical researcher.
                         </p>
                         <p>
-                            We Work in research group developing Galaxy Light profile 
-                            convolutional neural Networks (GaLNets) with CNN machine 
-                            learning technique for further study.
+                            Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
+                            using Convolutional Neural Network(CNN) to process the galaxy images to 
+                            derive structural parameters on 1-Sersic model[GaLNets.I.] 
+                            and perform Bulge-Disk on decomposition on 2-Sersic model[GaLNets.Ⅱ.]
+                        </p>
+                        <p>
+                            Our system is now the fast and most accurate model in galaxy images analysing.  :)
                         </p>
                     ''',
                     "content_plain": None
