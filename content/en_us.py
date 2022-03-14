@@ -34,7 +34,7 @@ content = {
                             I learnt most of my Machine Learning knowledge from online courses(thanks to Youtube, Coursera and Bilibili) and research practices.
                             With my knowledge in Physics, Mathematic, Computer Science and Machine Learning, I successfully developed a variety of models in galaxy images analysing.
                             Currently, I am working on project that using CNN to do structural decomposition in 2-component galaxies and writing my first paper on this.
-                            In the future, I am looking forward to participating in more Machine Learning researches on image analyse, NLP or other area that will accutually make contribution to our world.  
+                            In the future, I am looking forward to participating in more Machine Learning researches on image processing, NLP or other areas that will accutually make contribution to our world.  
                         </p>
                     ''',
                     "content_plain": None
@@ -85,10 +85,7 @@ content = {
                             Technical researcher.
                         </p>
                         <p>
-                            Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
-                            using Convolutional Neural Network(CNN) to process the galaxy images and 
-                            derive structural parameters on 1-Sersic model[GaLNets.I.] 
-                            and perform Bulge-Disk on decomposition on 2-Sersic model[GaLNets.Ⅱ.]
+                            
                         </p>
                         <p>
                             Our system is now the fast and most accurate model in galaxy images analysing  :)
@@ -110,7 +107,7 @@ content = {
                             Chairman.
                         </p>
                         <p>
-                            In this exprience, I led our media center to finish many promotional activities via both traditional way and novel media (e.g. WeChat Official account).
+                            In this exprience, I led our media center to finish many promotional activities via both traditional ways and novel media (e.g. WeChat Official account).
                             We got a lot of achievement in advertising our school and received widely acclaim. Most importantly, we build an efficient working process and orgnized personnel structure,
                             which are very benificial to our successor.
                         </p>
@@ -133,7 +130,7 @@ content = {
                                 Multiple scientific research tools: E.g. Matlab, TensorFlow, Topcat…
                             </p></li>
                             <li><p>
-                                Machine learning knowledge in Image Processing, NLP…
+                                Machine learning knowledge in Image Processing, NLP
                             </p></li>
                             <li><p>
                                 Prefer using language: Python, C
@@ -159,10 +156,15 @@ content = {
 
                     "content": '''
                         <p><i>(<a href="https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ">https://scholar.google.com/citations?hl=zh-CN&user=Z9klav0AAAAJ</a>)</i></p>
-                        <p>Researcher. We developed GaLNets with 
-                        machine learning technique to enhance the 
-                        performance of galaxy image processing in 
-                        KiDs, CSST… </p>
+                        <p>
+                        Researcher.
+                        </p>
+                        <p>
+                        Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
+                        using Convolutional Neural Network(CNN) to process the galaxy images and 
+                        derive structural parameters on 1-Sersic model[GaLNets.I.] 
+                        and perform Bulge-Disk decomposition on 2-Sersic model[GaLNets.Ⅱ.]
+                        </p>
                         
                     ''',
                     "content_plain": None
@@ -175,12 +177,26 @@ content = {
                 {
 
                     "logo_src": None,
-                    "logo_alt": "Sysu",
+                    "logo_alt": "APMCM",
 
-                    "title": '''1. Scholarship''',
+                    "title": ''' APMCM Mathematical Modeling Tournament / First Award''',
                     "title_plain": None,
 
-                    "period": "2019 - 2021",
+                    "period": "2021",
+
+                    "content": '''
+                    ''',
+                    "content_plain": None
+                },
+                {
+
+                    "logo_src": None,
+                    "logo_alt": "SYSU",
+
+                    "title": ''' Scholarship of Sun Yet-sen University''',
+                    "title_plain": None,
+
+                    "period": "2020 - 2021",
 
                     "content": '''
                     ''',
@@ -191,7 +207,7 @@ content = {
                     "logo_src": None,
                     "logo_alt": "MathorCup",
 
-                    "title": '''2. MathorCup Mathematical Modeling Tournament / Third Award''',
+                    "title": ''' MathorCup Mathematical Modeling Tournament / Third Award''',
                     "title_plain": None,
 
                     "period": "2021",
@@ -203,17 +219,19 @@ content = {
                 {
 
                     "logo_src": None,
-                    "logo_alt": "APMCM",
+                    "logo_alt": "SYSU",
 
-                    "title": '''3. APMCM Mathematical Modeling Tournament / First Award''',
+                    "title": ''' Scholarship of Sun Yet-sen University''',
                     "title_plain": None,
 
-                    "period": "2021",
+                    "period": "2019 - 2020",
 
                     "content": '''
                     ''',
                     "content_plain": None
                 },
+                
+                
             ]
         },
         {
