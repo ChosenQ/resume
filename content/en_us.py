@@ -6,7 +6,7 @@ from tkinter.messagebox import NO
 
 
 content = {
-    "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px; float:right"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
+    "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px;"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
     "title": "Chosen's Resume",
 
     "extra_style": "en_us.css",
