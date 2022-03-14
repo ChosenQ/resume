@@ -28,7 +28,7 @@ content = {
                 {   "title": None,
                     "title_plain": None,
                     "content": '''
-                        <p>
+                        <p style=text_indent:2cm>
                             I am an undergratuate in School of physics and Astronomy at SYSU. My interest and research goal is solving real-world problems with
                             sundry technology. Among all technology I have acquired, I found Machine Leaning most charming and promising. 
                             I learnt most of my Machine Learning knowledge from online courses(thanks to Youtube, Coursera and Bilibili) and research practices.
@@ -58,7 +58,7 @@ content = {
                         <p>
                             Major: Physics        (GPA 3.55 / 4.00) <br>
                             Core crouses: Probability and Statistics, Linear Algebra, <br> 
-                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Programming and data structure,Machine Learning and Python Practice, Mathematical Physics Methods <br>
+                            <p style=text_indent:4cm> C Programming and data structure,Machine Learning and Python Practice, Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             
                         </p>
@@ -88,7 +88,7 @@ content = {
                             
                         </p>
                         <p>
-                            Our system is now the fast and most accurate model in galaxy images analysing  :)
+                            
                         </p>
                     ''',
                     "content_plain": None
@@ -106,7 +106,7 @@ content = {
                         <p>
                             Chairman.
                         </p>
-                        <p>
+                        <p style=text_indent:2cm>
                             In this exprience, I led our media center to finish many promotional activities via both traditional ways and novel media (e.g. WeChat Official account).
                             We got a lot of achievement in advertising our school and received widely acclaim. Most importantly, we build an efficient working process and orgnized personnel structure,
                             which are very benificial to our successors.
@@ -159,11 +159,12 @@ content = {
                         <p>
                         Researcher.
                         </p>
-                        <p>
+                        <p style=text_indent:2cm>
                         Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
                         using Convolutional Neural Network(CNN) to process the galaxy images and 
                         derive structural parameters on 1-Sersic model[GaLNets.I.] 
-                        and perform Bulge-Disk decomposition on 2-Sersic model[GaLNets.Ⅱ.]
+                        and perform Bulge-Disk decomposition on 2-Sersic model[GaLNets.Ⅱ.]<br>
+                        Our system is now the fast and most accurate model in galaxy images analysing  :)
                         </p>
                         
                     ''',
