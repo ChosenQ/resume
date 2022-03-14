@@ -36,7 +36,7 @@ content = {
                         <p>
                             Major: Physics <br>
                             Core crouses: Probability and Statistics, Linear Algebra, C Programming, <br> 
-                                           &nbsp &nbsp Machine Learning and Python Practice, Mathematical Physics Methods <br>
+                                           &nbsp; &nbsp; Machine Learning and Python Practice, Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             GPA 3.55 / 4.00
                         </p>
