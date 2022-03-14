@@ -109,7 +109,7 @@ content = {
                         <p>
                             In this exprience, I led our media center to finish many promotional activities via both traditional ways and novel media (e.g. WeChat Official account).
                             We got a lot of achievement in advertising our school and received widely acclaim. Most importantly, we build an efficient working process and orgnized personnel structure,
-                            which are very benificial to our successor.
+                            which are very benificial to our successors.
                         </p>
                     ''',
                     "content_plain": None
