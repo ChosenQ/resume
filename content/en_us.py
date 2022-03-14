@@ -4,7 +4,6 @@
 
 from tkinter.messagebox import NO
 
-
 content = {
     "name": '''Chosen(Chen) Qiu <div style="height: 260px; width: 170px; float:right"><img alt="" src="./assets/profile.jpg" style="height: auto; max-width: 100%;" /></div>''',
     "title": "Chosen's Resume",
@@ -28,7 +27,7 @@ content = {
                 {   "title": None,
                     "title_plain": None,
                     "content": '''
-                        <p>
+                        <p style="text-indent:2em;">
                             I am an undergratuate in School of physics and Astronomy at SYSU. My interest and research goal is solving real-world problems with
                             sundry technology. Among all technology I have acquired, I found Machine Leaning most charming and promising. 
                             I learnt most of my Machine Learning knowledge from online courses(thanks to Youtube, Coursera and Bilibili) and research practices.
