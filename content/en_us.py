@@ -27,7 +27,7 @@ content = {
                     "logo_src": "assets/sysu-logo.svg",
                     "logo_alt": "Sun Yat-sen University Logo",
 
-                    "title": "(Undergraduate)Sun Yat-sen University, Guangdong, China",
+                    "title": "Sun Yat-sen University, Guangdong, China (Undergraduate)",
                     "title_plain": None,
 
                     "period": "08/2019 - Present",
@@ -35,8 +35,8 @@ content = {
                     "content": '''
                         <p>
                             Major: Physics <br>
-                            Core crouses: Probability and Statistics, Linear Algebra, C Programming, Machine Learning and Python Practice
-Mathematical Physics Methods 
+                            Core crouses: Probability and Statistics, Linear Algebra, C Programming, Machine Learning <br> 
+                                          Python Practice Mathematical Physics Methods <br>
                             Anticipated graduation date: 06/2023, <br>
                             GPA 3.55 / 4.00
                         </p>
