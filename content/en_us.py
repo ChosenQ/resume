@@ -86,12 +86,12 @@ content = {
                         </p>
                         <p>
                             Developed a machine learning system Galaxy Light profile convolutional neural Networks (GaLNets)
-                            using Convolutional Neural Network(CNN) to process the galaxy images to 
+                            using Convolutional Neural Network(CNN) to process the galaxy images and 
                             derive structural parameters on 1-Sersic model[GaLNets.I.] 
                             and perform Bulge-Disk on decomposition on 2-Sersic model[GaLNets.Ⅱ.]
                         </p>
                         <p>
-                            Our system is now the fast and most accurate model in galaxy images analysing.  :)
+                            Our system is now the fast and most accurate model in galaxy images analysing  :)
                         </p>
                     ''',
                     "content_plain": None
@@ -110,7 +110,9 @@ content = {
                             Chairman.
                         </p>
                         <p>
-                            Lead and organize media center in advertising our university.
+                            In this exprience, I led our media center to finish many promotional activities via both traditional way and novel media (e.g. WeChat Official account).
+                            We got a lot of achievement in advertising our school and received widely acclaim. Most importantly, we build an efficient working process and orgnized personnel structure,
+                            which are very benificial to our successor.
                         </p>
                     ''',
                     "content_plain": None
