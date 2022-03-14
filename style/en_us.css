@@ -1,0 +1,13 @@
+/**
+ * 英文
+ */
+.profile-container span a,
+.section-item-title p,
+.section-title {
+   font-family: 'Source Han Sans SC';
+}
+
+.section-item-title span,
+.section-item-content p {
+   font-family: 'Source Han Serif SC';
+}
