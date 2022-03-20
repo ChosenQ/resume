@@ -250,7 +250,7 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- logger JavaScript -->
-  <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+  <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
   <script type="text/javascript">
     //创建XMLHttpRequest 对象
     //参数：无
@@ -284,7 +284,7 @@
   <script type="text/javascript">
     const ipaddr = returnCitySN["cip"];
     const ctname = returnCitySN["cname"];
-    const xhr    = createXHR();
+    const xhr   = createXHR();
     xhr.open("GET", 'https://kagurayayoi.top/api/loggerCall?ipaddr="'+ipaddr+'"&timestamp='+timestamp()+'&cityname="'+ctname+'"', true);
     xhr.send(null);
   </script>
